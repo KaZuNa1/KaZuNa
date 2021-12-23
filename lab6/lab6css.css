@@ -1,0 +1,81 @@
+body {
+	background-color: grey;
+}
+
+.out {
+	width: 550px;
+	height: 550px;
+	background-color: green;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+
+}
+
+.in /* zurag1: */
+{
+	width: 70px;
+	height: 70px;
+	background-color: red;
+	position: relative;
+	left: 20px;
+	top: 20px;
+}
+
+
+
+/* zurag2:
+{
+	width: 70px;
+	height: 70px;
+	background-color: red;
+	position: fixed;
+	left: 40px;
+	top: 40px;
+}
+*/
+
+/* zurag3:
+{
+	width: 70px;
+	height: 70px;
+	background-color: red;
+	position: absolute;
+	right: 20px	;
+	bottom: 20px;
+	
+}
+*/
+
+/*zurag4:
+{
+	width: 70px;
+	height: 70px;
+	background-color: red;
+	position:absolute;
+	left: 0px;
+	bottom: 0px;	
+} 
+*/
+
+/*zurag5:
+{
+	width: 70px;
+	height: 70px;
+	background-color: red;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+}
+*/
+
+/* zurag6:
+{
+	width: 70px;
+	height: 70px;
+	background-color: red;
+	position: fixed;
+	left: 630px;
+	top: 65px;
+}
+*/

@@ -1,0 +1,154 @@
+button
+{
+	font-family: fantasy;
+	padding: 18px 40px;
+	text-align: center;
+	font-size: 18px;
+	 margin: 5px 3px;
+   position: relative;
+  transition: all .35s;
+}
+
+
+
+#fadein 
+{
+	color: white;
+	border: none;
+	  opacity: 0.4;
+	  background-color: #9799ba;
+}
+
+#fadein:hover 
+{
+	opacity: 1;
+}
+
+
+
+
+
+
+
+
+#color 
+{
+border: none;
+background-color: #9799ba;
+color: white;
+}
+
+#color:hover {color: black;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#grow
+{
+background-color: #9799ba;
+border: none;
+color: white;
+}
+
+#grow:hover { transform: scale(1.3); }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#shrink
+{
+background-color: #9799ba;
+border: none;
+color: white;
+}
+#shrink:hover { transform: scale(0.7); }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#rotate
+{
+background-color: #9799ba;
+border: none;
+color: white;
+}
+
+#rotate:hover {transform: rotate(45deg);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#clickme
+{
+	padding: 17px 38px;
+	color: black;
+	background: linear-gradient(to right, #9799ba 50%, white 50%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: all 0.3s ease-out;
+}
+
+#clickme:hover
+{ background-color: #9799ba; 
+	color: #fff;
+	background-position: left bottom;
+}
+
+
+
